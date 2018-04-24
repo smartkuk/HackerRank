@@ -1,0 +1,13 @@
+# Eclipse-related
+.classpath
+.project
+.factorypath
+.apt_generated/
+.settings/
+**/.settings/*
+!**/.settings/org.eclipse.jdt.core.prefs
+!**/.settings/org.eclipse.jdt.ui.prefs
+.springBeans
+# Build
+target/
+.DS_Store
