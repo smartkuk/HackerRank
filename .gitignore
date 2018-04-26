@@ -10,4 +10,5 @@
 .springBeans
 # Build
 target/
+bin/
 .DS_Store
